@@ -3,7 +3,7 @@ _version: 0.1.0
 contributor:
   contributor:
     agent_name: Pomfret, John
-    birthdate: &id001 1667
+    birthdate: 1667
     deathdate: 1702
     gutenberg_agent_id: '39670'
     url: http://www.gutenberg.org/2009/agents/39670
@@ -13,7 +13,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/39669
   - agent_name: Ward, Edward
     alias: Ward, Ned
-    birthdate: *id001
+    birthdate: 1667
     deathdate: 1731
     gutenberg_agent_id: '39668'
     url: http://www.gutenberg.org/2009/agents/39668
@@ -23,6 +23,8 @@ covers:
 description:
 - Attributed to Edward Ward or Sir John Dillon.
 - '''The choice'' is by John Pomfret.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13800#The-Pleasures-of-a-Single-Life-Or-The-Miseries-of-Matrimony--13-Occasionally-writ-upon-the-ma_
 gutenberg_issued: '2004-10-19'
 gutenberg_type: Text
 identifiers:
